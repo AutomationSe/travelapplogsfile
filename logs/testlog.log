@@ -1,0 +1,195 @@
+[2025-09-18 10:25:38.501] DEBUG TestNG - suiteXmlPath: "C:\Users\User\Desktop\Eatme Files\seleniumgridproject\testng.xml"
+[2025-09-18 10:25:38.763] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 9 ms.
+[2025-09-18 10:25:38.786] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 21 ms.
+[2025-09-18 10:25:38.788] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.788] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.789] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.789] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.789] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.790] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.790] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.790] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.792] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.792] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.792] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.792] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.793] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.793] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.796] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.796] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.798] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.798] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.800] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.801] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.803] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.804] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-09-18 10:25:38.804] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.804] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.806] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.806] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.806] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.806] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.806] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.806] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.808] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.808] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.808] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.808] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.808] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.808] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.809] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.809] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.814] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.815] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.815] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.817] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.817] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.822] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+[2025-09-18 10:25:38.824] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-09-18 10:25:38.824] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.825] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-09-18 10:25:38.825] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-09-18 10:25:38.829] INFO  Utils - [TestNG] Running:
+  C:\Users\User\Desktop\Eatme Files\seleniumgridproject\testng.xml
+
+[2025-09-18 10:25:38.847] INFO  Base - Setting up the test environment...
+[2025-09-18 10:25:38.865] DEBUG WebDriverManager - Using WebDriverManager 6.3.1
+[2025-09-18 10:25:39.242] DEBUG ResolutionCache - Resolution chrome=140 in cache (valid until 11:07:41 18/09/2025 IST)
+[2025-09-18 10:25:39.244] DEBUG ResolutionCache - Resolution chrome140=140.0.7339.82 in cache (valid until 18:07:49 18/09/2025 IST)
+[2025-09-18 10:25:39.245] INFO  WebDriverManager - Using chromedriver 140.0.7339.82 (resolved driver for Chrome 140)
+[2025-09-18 10:25:39.301] DEBUG WebDriverManager - Driver chromedriver 140.0.7339.82 found in cache
+[2025-09-18 10:25:39.302] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\User\.cache\selenium\chromedriver\win64\140.0.7339.82\chromedriver.exe
+[2025-09-18 10:25:42.873] INFO  Base - Page title: Welcome: Mercury Tours
+[2025-09-18 10:25:42.873] INFO  Base - Test environment setup complete.
+[2025-09-18 10:25:42.884] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2025-09-18 10:25:42.898] INFO  guru99open - Starting test: Verifying Guru99 website content
+[2025-09-18 10:25:42.900] INFO  guru99open - Verifying all expected text elements on the page
+[2025-09-18 10:25:42.901] INFO  guru99open - Getting 'Demo Site' element text
+[2025-09-18 10:25:42.955] INFO  guru99open - Actual text retrieved: 'Demo Site'
+[2025-09-18 10:25:42.955] INFO  guru99open - Expected text: 'Demo Site'
+[2025-09-18 10:25:42.955] INFO  guru99open - Asserting Homepage name: Actual='Demo Site', Expected='Demo Site'
+[2025-09-18 10:25:42.958] INFO  guru99open - Homepage name assertion PASSED
+[2025-09-18 10:25:42.958] INFO  guru99open - Getting 'Atlanta to Las Vegas' element text
+[2025-09-18 10:25:42.989] INFO  guru99open - Actual text retrieved: 'Atlanta to Las Vegas'
+[2025-09-18 10:25:42.989] INFO  guru99open - Expected text: 'Atlanta to Las Vegas'
+[2025-09-18 10:25:42.989] INFO  guru99open - Asserting Atlanta to Las Vegas flight: Actual='Atlanta to Las Vegas', Expected='Atlanta to Las Vegas'
+[2025-09-18 10:25:42.989] INFO  guru99open - Atlanta to Las Vegas flight assertion PASSED
+[2025-09-18 10:25:42.990] INFO  guru99open - Getting '$398' element text
+[2025-09-18 10:25:43.020] INFO  guru99open - Actual text retrieved: '$398'
+[2025-09-18 10:25:43.020] INFO  guru99open - Expected text: '$398'
+[2025-09-18 10:25:43.020] INFO  guru99open - Asserting Atlanta to Las Vegas cost: Actual='$398', Expected='$398'
+[2025-09-18 10:25:43.020] INFO  guru99open - Atlanta to Las Vegas cost assertion PASSED
+[2025-09-18 10:25:43.021] INFO  guru99open - Getting 'Boston to San Francisco' element text
+[2025-09-18 10:25:43.051] INFO  guru99open - Actual text retrieved: 'Boston to San Francisco'
+[2025-09-18 10:25:43.051] INFO  guru99open - Expected text: 'Boston to San Francisco'
+[2025-09-18 10:25:43.051] INFO  guru99open - Asserting Boston to San Francisco flight: Actual='Boston to San Francisco', Expected='Boston to San Francisco'
+[2025-09-18 10:25:43.052] INFO  guru99open - Boston to San Francisco flight assertion PASSED
+[2025-09-18 10:25:43.052] INFO  guru99open - Getting '$513' element text
+[2025-09-18 10:25:43.081] INFO  guru99open - Actual text retrieved: '$513'
+[2025-09-18 10:25:43.081] INFO  guru99open - Expected text: '$513'
+[2025-09-18 10:25:43.082] INFO  guru99open - Asserting Boston to San Francisco cost: Actual='$513', Expected='$513'
+[2025-09-18 10:25:43.082] INFO  guru99open - Boston to San Francisco cost assertion PASSED
+[2025-09-18 10:25:43.082] INFO  guru99open - Getting 'Los Angeles to Chicago' element text
+[2025-09-18 10:25:43.112] INFO  guru99open - Actual text retrieved: 'Los Angeles to Chicago'
+[2025-09-18 10:25:43.112] INFO  guru99open - Expected text: 'Los Angeles to Chicago'
+[2025-09-18 10:25:43.112] INFO  guru99open - Asserting Los Angeles to Chicago flight: Actual='Los Angeles to Chicago', Expected='Los Angeles to Chicago'
+[2025-09-18 10:25:43.112] INFO  guru99open - Los Angeles to Chicago flight assertion PASSED
+[2025-09-18 10:25:43.112] INFO  guru99open - Getting '$168' element text
+[2025-09-18 10:25:43.143] INFO  guru99open - Actual text retrieved: '$168'
+[2025-09-18 10:25:43.143] INFO  guru99open - Expected text: '$168'
+[2025-09-18 10:25:43.143] INFO  guru99open - Asserting Los Angeles to Chicago cost: Actual='$168', Expected='$168'
+[2025-09-18 10:25:43.143] INFO  guru99open - Los Angeles to Chicago cost assertion PASSED
+[2025-09-18 10:25:43.143] INFO  guru99open - Getting 'New York to Chicago' element text
+[2025-09-18 10:25:43.173] INFO  guru99open - Actual text retrieved: 'New York to Chicago'
+[2025-09-18 10:25:43.173] INFO  guru99open - Expected text: 'New York to Chicago'
+[2025-09-18 10:25:43.173] INFO  guru99open - Asserting New York to Chicago flight: Actual='New York to Chicago', Expected='New York to Chicago'
+[2025-09-18 10:25:43.173] INFO  guru99open - New York to Chicago flight assertion PASSED
+[2025-09-18 10:25:43.173] INFO  guru99open - Getting '$198' element text
+[2025-09-18 10:25:43.206] INFO  guru99open - Actual text retrieved: '$198'
+[2025-09-18 10:25:43.206] INFO  guru99open - Expected text: '$198'
+[2025-09-18 10:25:43.206] INFO  guru99open - Asserting New York to Chicago cost: Actual='$198', Expected='$198'
+[2025-09-18 10:25:43.206] INFO  guru99open - New York to Chicago cost assertion PASSED
+[2025-09-18 10:25:43.207] INFO  guru99open - Getting 'Phoenix to San Francisco' element text
+[2025-09-18 10:25:43.242] INFO  guru99open - Actual text retrieved: 'Phoenix to San Francisco'
+[2025-09-18 10:25:43.242] INFO  guru99open - Expected text: 'Phoenix to San Francisco'
+[2025-09-18 10:25:43.243] INFO  guru99open - Asserting Phoenix to San Francisco flight: Actual='Phoenix to San Francisco', Expected='Phoenix to San Francisco'
+[2025-09-18 10:25:43.243] INFO  guru99open - Phoenix to San Francisco flight assertion PASSED
+[2025-09-18 10:25:43.243] INFO  guru99open - Getting '$213' element text
+[2025-09-18 10:25:43.274] INFO  guru99open - Actual text retrieved: '$213'
+[2025-09-18 10:25:43.274] INFO  guru99open - Expected text: '$213'
+[2025-09-18 10:25:43.275] INFO  guru99open - Asserting Phoenix to San Francisco cost: Actual='$213', Expected='$213'
+[2025-09-18 10:25:43.275] INFO  guru99open - Phoenix to San Francisco cost assertion PASSED
+[2025-09-18 10:25:43.275] INFO  guru99open - Getting 'Jul 6, 2017' element text
+[2025-09-18 10:25:43.318] INFO  guru99open - Actual text retrieved: 'Jul 6, 2017'
+[2025-09-18 10:25:43.318] INFO  guru99open - Expected text: 'Jul 6, 2017'
+[2025-09-18 10:25:43.318] INFO  guru99open - Asserting Capture date: Actual='Jul 6, 2017', Expected='Jul 6, 2017'
+[2025-09-18 10:25:43.319] INFO  guru99open - Capture date assertion PASSED
+[2025-09-18 10:25:43.319] INFO  guru99open - All initial assertions passed successfully!
+[2025-09-18 10:25:43.319] INFO  guru99open - Clicking on register link
+[2025-09-18 10:25:44.310] INFO  guru99open - Successfully clicked register link
+[2025-09-18 10:25:44.310] INFO  guru99open - Register Text on Register Page
+[2025-09-18 10:25:44.342] INFO  guru99open - Actual text retrieved: 'Contact Information'
+[2025-09-18 10:25:44.342] INFO  guru99open - Expected text: 'Contact Information'
+[2025-09-18 10:25:44.342] INFO  guru99open - Verifying Register page text
+[2025-09-18 10:25:44.342] INFO  guru99open - Asserting Register page text: Actual='Contact Information', Expected='Contact Information'
+[2025-09-18 10:25:44.342] INFO  guru99open - Register page text assertion PASSED
+[2025-09-18 10:25:44.342] INFO  guru99open - Test execution completed
+[2025-09-18 10:25:44.346] INFO  registerTest - ########### Starting Test: Register Page ###########
+[2025-09-18 10:25:44.347] INFO  registerTest - Processing registration form fields
+[2025-09-18 10:25:44.378] INFO  registerTest - Verifying First Name label: Actual='First Name:', Expected='First Name:'
+[2025-09-18 10:25:44.378] INFO  registerTest - First Name label verification PASSED
+[2025-09-18 10:25:44.378] INFO  registerTest - Filling First Name with: kooks
+[2025-09-18 10:25:44.466] INFO  registerTest - First Name filled successfully
+[2025-09-18 10:25:44.497] INFO  registerTest - Verifying Last Name label: Actual='Last Name:', Expected='Last Name:'
+[2025-09-18 10:25:44.497] INFO  registerTest - Last Name label verification PASSED
+[2025-09-18 10:25:44.497] INFO  registerTest - Filling Last Name with: kooks
+[2025-09-18 10:25:44.566] INFO  registerTest - Last Name filled successfully
+[2025-09-18 10:25:44.601] INFO  registerTest - Verifying Phone label: Actual='Phone:', Expected='Phone:'
+[2025-09-18 10:25:44.602] INFO  registerTest - Phone label verification PASSED
+[2025-09-18 10:25:44.602] INFO  registerTest - Filling Phone with: 1234567899
+[2025-09-18 10:25:44.693] INFO  registerTest - Phone filled successfully
+[2025-09-18 10:25:44.732] INFO  registerTest - Verifying Email label: Actual='Email:', Expected='Email:'
+[2025-09-18 10:25:44.732] INFO  registerTest - Email label verification PASSED
+[2025-09-18 10:25:44.733] INFO  registerTest - Filling Email with: senel123@gmail.com
+[2025-09-18 10:25:44.823] INFO  registerTest - Email filled successfully
+[2025-09-18 10:25:44.855] INFO  registerTest - Verifying Mailing Information label: Actual='Mailing Information', Expected='Mailing Information'
+[2025-09-18 10:25:44.855] INFO  registerTest - Mailing Information label verification PASSED
+[2025-09-18 10:25:44.887] INFO  registerTest - Verifying Address label: Actual='Address:', Expected='Address:'
+[2025-09-18 10:25:44.887] INFO  registerTest - Address label verification PASSED
+[2025-09-18 10:25:44.887] INFO  registerTest - Filling Address with: 1234 Main St
+[2025-09-18 10:25:44.964] INFO  registerTest - Address filled successfully
+[2025-09-18 10:25:44.995] INFO  registerTest - Verifying City label: Actual='City:', Expected='City:'
+[2025-09-18 10:25:44.995] INFO  registerTest - City label verification PASSED
+[2025-09-18 10:25:44.995] INFO  registerTest - Filling City with: Anytown1
+[2025-09-18 10:25:45.067] INFO  registerTest - City filled successfully
+[2025-09-18 10:25:45.096] INFO  registerTest - Verifying State/Province label: Actual='State/Province:', Expected='State/Province:'
+[2025-09-18 10:25:45.096] INFO  registerTest - State/Province label verification PASSED
+[2025-09-18 10:25:45.096] INFO  registerTest - Filling State/Province with: Anystate2
+[2025-09-18 10:25:45.174] INFO  registerTest - State/Province filled successfully
+[2025-09-18 10:25:45.209] INFO  registerTest - Verifying Postal Code label: Actual='Postal Code:', Expected='Postal Code:'
+[2025-09-18 10:25:45.209] INFO  registerTest - Postal Code label verification PASSED
+[2025-09-18 10:25:45.209] INFO  registerTest - Filling Postal Code with: 123456
+[2025-09-18 10:25:45.287] INFO  registerTest - Postal Code filled successfully
+[2025-09-18 10:25:45.320] INFO  registerTest - Verifying Country label: Actual='Country:', Expected='Country:'
+[2025-09-18 10:25:45.320] INFO  registerTest - Country label verification PASSED
+[2025-09-18 10:25:45.354] INFO  registerTest - Verifying User Name label: Actual='User Name:', Expected='User Name:'
+[2025-09-18 10:25:45.354] INFO  registerTest - User Name label verification PASSED
+[2025-09-18 10:25:45.354] INFO  registerTest - Filling User Name with: johndoe
+[2025-09-18 10:25:45.449] INFO  registerTest - User Name filled successfully
+[2025-09-18 10:25:45.482] INFO  registerTest - Verifying Password label: Actual='Password:', Expected='Password:'
+[2025-09-18 10:25:45.482] INFO  registerTest - Password label verification PASSED
+[2025-09-18 10:25:45.482] INFO  registerTest - Filling Password with: password1235
+[2025-09-18 10:25:45.550] INFO  registerTest - Password filled successfully
+[2025-09-18 10:25:45.586] INFO  registerTest - Verifying Confirm Password label: Actual='Confirm Password:', Expected='Confirm Password:'
+[2025-09-18 10:25:45.586] INFO  registerTest - Confirm Password label verification PASSED
+[2025-09-18 10:25:45.586] INFO  registerTest - Filling Confirm Password with: password1235
+[2025-09-18 10:25:45.648] INFO  registerTest - Confirm Password filled successfully
+[2025-09-18 10:25:45.648] INFO  registerTest - Selecting country: ALGERIA
+[2025-09-18 10:25:45.839] INFO  registerTest - Selected country: ALGERIA
+[2025-09-18 10:25:45.839] INFO  registerTest - Submitting registration form
+[2025-09-18 10:25:51.055] INFO  registerTest - Click Signinbutton Link
+[2025-09-18 10:25:52.156] INFO  registerTest - ########### Test Completed Successfully ###########
+[2025-09-18 10:25:52.157] INFO  registerTest - Test execution completed
+[2025-09-18 10:25:52.160] INFO  Base - Tearing down test environment...
+[2025-09-18 10:25:52.353] INFO  Base - Browser closed successfully.
+[2025-09-18 10:25:52.353] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@524a076e: 0 ms

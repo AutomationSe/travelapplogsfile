@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Guru99 Test Suite" verbose="2">
+    <test name="Smoke Testing">
+        <classes>
+            <class name="Test.guru99open"/>
+            <class name="Test.registerTest"/>
+        </classes>
+    </test>
+</suite>
