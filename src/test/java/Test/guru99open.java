@@ -8,9 +8,6 @@ import util.loggerload;  // Import your custom logger utility
 
 public class guru99open extends Base {
 
-    // Remove the direct LogManager import and use your custom logger
-    // private static final Logger log = LogManager.getLogger(guru99open.class);
-
     @Test
     public void testPageContent() {
         try {
