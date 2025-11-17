@@ -1,31 +1,14 @@
-# ============================
-# Gitpod Setup for Maven + TestNG + LambdaTest
-# ============================
+version: 1.0
 
-# Use official Maven + Java 17 image
-image: maven:3.9.4-eclipse-temurin-17
+automations:
+  - name: run-tests
+    on: [push]
+    tasks:
+      - name: install-dependencies
+        command: |
+          sudo apt-get update
+          sudo apt-get install -y maven default-jdk
+          mvn clean install
 
-# Environment variables (LambdaTest credentials)
-env:
-  LT_USERNAME: "senelqaemg"
-  LT_ACCESS_KEY: "LT_3TUhxqHMTDGWYXHN9ZwjZusYKgdXErhUdbAzev9KciimUf9"
-
-# Commands Gitpod runs when workspace starts
-tasks:
-  - init: |
-      echo "🔧 Installing project dependencies..."
-      mvn -q clean install
-    command: |
-      echo "🚀 Running Selenium Tests with TestNG on LambdaTest..."
-      mvn -q test -DsuiteXmlFile=testng.xml
-
-# Open ports if needed (optional)
-ports:
-  - port: 8080
-    onOpen: ignore
-
-# VS Code extensions (recommended)
-vscode:
-  extensions:
-    - vscjava.vscode-java-pack
-    - redhat.java
+      - name: run-testng-suite
+        command: mvn test -DsuiteXmlFile=testng.xml
