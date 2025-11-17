@@ -7,4 +7,4 @@ tasks:
       mvn -v
       mvn test -DsuiteXmlFile=testng.xml
     triggeredBy:
-      - push
+      - postEnvironmentStart
