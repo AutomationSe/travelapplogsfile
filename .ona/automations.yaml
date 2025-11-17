@@ -1,14 +1,14 @@
 version: 1.0
 
-automations:
+automations_config:
   - name: run-tests
-    on: [push]
-    tasks:
+    on: ["push"]
+    steps:
       - name: install-dependencies
-        command: |
+        run: |
           sudo apt-get update
           sudo apt-get install -y maven default-jdk
-          mvn clean install
+          mvn -v
 
       - name: run-testng-suite
-        command: mvn test -DsuiteXmlFile=testng.xml
+        run: mvn test -DsuiteXmlFile=testng.xml
